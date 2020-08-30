@@ -8,6 +8,10 @@
 
 int currentBtnPressed;
 
+
+extern float temperature;
+extern int tempToUse;
+
 Thread thread;
 Thread soundT;
 

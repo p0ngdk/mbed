@@ -7,8 +7,10 @@ AnalogIn tempSensor(A0);
 DigitalOut tempLed(D2);
 
 int temp = 20.0f; 
+
 float temperature;
 int tempToUse = 30;
+
 
 void convertTemp(){
     int readData;
