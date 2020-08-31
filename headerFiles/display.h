@@ -2,3 +2,4 @@
 
 void initDisplay();
 void defineButtons();
+void displayThread();

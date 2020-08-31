@@ -4,5 +4,5 @@ projectfiles
 *.py*
 BUILD
 BSP_DISCO_F746NG
-EaEpaper
 mbed-os
+DHT
